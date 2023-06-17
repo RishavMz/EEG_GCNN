@@ -1,0 +1,1 @@
+The downloaded TUH EEG Corpus dataset zip might be extracted here in this folder.
